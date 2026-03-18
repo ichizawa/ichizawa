@@ -1,23 +1,14 @@
 <div align="center">
 
-```
- ░█████╗░░█████╗░███████╗██╗░░░░░
- ██╔══██╗██╔══██╗██╔════╝██║░░░░░
- ███████║███████║█████╗░░██║░░░░░
- ██╔══██║██╔══██║██╔══╝░░██║░░░░░
- ██║░░██║██║░░██║███████╗███████╗
- ╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚══════╝
-```
-
 # Hi, I'm **Ace** 👋
 ### Fullstack Developer · Designer · Creator
 
 **Davao City, Philippines 🇵🇭**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-azer--portfolio.vercel.app-black?style=flat-square&logo=vercel)](https://azer-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-aeclbatingal-181717?style=flat-square&logo=github)](https://github.com/aeclbatingal)
+[![GitHub](https://img.shields.io/badge/GitHub-ichizawa-181717?style=flat-square&logo=github)](https://github.com/ichizawa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aeclbatingal-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/aeclbatingal)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail)](mailto:aecl@protected.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail)](mailto:shido1718@protected.com)
 
 </div>
 
@@ -134,11 +125,11 @@ Developed software applications including alumni management, club management, an
 
 <div align="center">
 
-![Ace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeclbatingal&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Ace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ichizawa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aeclbatingal&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ichizawa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aeclbatingal&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=ichizawa&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
