@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aeclbatingal-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/aeclbatingal)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:shido1718@protected.com)
 
-Passionate fullstack developer with a strong foundation in both frontend and backend. BS IT graduate from University of Mindanao · Currently @ **Mediaone Software Solutions** · ✅ Open for Freelance
+Passionate fullstack developer with a strong foundation in both frontend and backend developments.
 
 </div>
 
