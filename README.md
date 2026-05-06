@@ -30,7 +30,7 @@ Passionate fullstack developer with a strong foundation in both frontend and bac
 | 💡 Support Technician Cybersecurity | Cisco | 2024 |
 | 🎯 Network Security | Certiport | 2023 |
 | 📜 Networking | Certiport | 2022 |
-| ⚡ Internship Completion | FreeCodeCamp | 2022 |
+| ⚡ Internship Completion | Mediaone Software Solutions | 2024 |
 
 ---
 
